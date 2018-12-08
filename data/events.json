@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"onJoin","temp":"","event-type":"4","actions":[{"title":"Thank you for using LandonBotPro!","author":"Zaleo","color":"#ff0000","timestamp":"true","url":"","authorIcon":"","imageUrl":"","thumbUrl":"","storage":"1","varName":"onJoinEmbed","name":"Create Embed Message"},{"storage":"1","varName":"onJoinEmbed","message":"Thank you for using LandonBotPro!\n\nTo get started, do \\help.","name":"Set Embed Description"},{"storage":"1","varName":"onJoinEmbed","channel":"4","varName2":"","storage3":"0","varName3":"","name":"Send Embed Message"}]}]
